@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/koxemduoc/static/css/main.b51a5e2c.chunk.css",
+    "main.js": "/koxemduoc/static/js/main.32d0d045.chunk.js",
+    "main.js.map": "/koxemduoc/static/js/main.32d0d045.chunk.js.map",
+    "runtime-main.js": "/koxemduoc/static/js/runtime-main.36944033.js",
+    "runtime-main.js.map": "/koxemduoc/static/js/runtime-main.36944033.js.map",
+    "static/css/2.8e586018.chunk.css": "/koxemduoc/static/css/2.8e586018.chunk.css",
+    "static/js/2.4411243b.chunk.js": "/koxemduoc/static/js/2.4411243b.chunk.js",
+    "static/js/2.4411243b.chunk.js.map": "/koxemduoc/static/js/2.4411243b.chunk.js.map",
+    "index.html": "/koxemduoc/index.html",
+    "static/css/2.8e586018.chunk.css.map": "/koxemduoc/static/css/2.8e586018.chunk.css.map",
+    "static/css/main.b51a5e2c.chunk.css.map": "/koxemduoc/static/css/main.b51a5e2c.chunk.css.map",
+    "static/js/2.4411243b.chunk.js.LICENSE.txt": "/koxemduoc/static/js/2.4411243b.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/koxemduoc/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36944033.js",
+    "static/css/2.8e586018.chunk.css",
+    "static/js/2.4411243b.chunk.js",
+    "static/css/main.b51a5e2c.chunk.css",
+    "static/js/main.32d0d045.chunk.js"
+  ]
+}
