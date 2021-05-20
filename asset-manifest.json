@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/koxemduoc/static/css/main.b51a5e2c.chunk.css",
-    "main.js": "/koxemduoc/static/js/main.32d0d045.chunk.js",
-    "main.js.map": "/koxemduoc/static/js/main.32d0d045.chunk.js.map",
+    "main.js": "/koxemduoc/static/js/main.831c31d8.chunk.js",
+    "main.js.map": "/koxemduoc/static/js/main.831c31d8.chunk.js.map",
     "runtime-main.js": "/koxemduoc/static/js/runtime-main.36944033.js",
     "runtime-main.js.map": "/koxemduoc/static/js/runtime-main.36944033.js.map",
     "static/css/2.8e586018.chunk.css": "/koxemduoc/static/css/2.8e586018.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.8e586018.chunk.css",
     "static/js/2.4411243b.chunk.js",
     "static/css/main.b51a5e2c.chunk.css",
-    "static/js/main.32d0d045.chunk.js"
+    "static/js/main.831c31d8.chunk.js"
   ]
 }
